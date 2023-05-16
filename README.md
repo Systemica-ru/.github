@@ -66,7 +66,27 @@
 
 
 text <mark>Marked text</mark>
+
 text <span style="background-color: #FFFF00">Marked text</span>
+
 text <mark style="background-color: lightblue">Marked text</mark>
+
 text ==highlight==
+
 text `highlight`
+
+<div class="alert-success">
+This is a green colored box
+</div>
+
+<div class="alert-danger">
+This is a red colored box
+</div>
+
+<div class="alert-warning">
+This is a yellow colored box
+</div>
+
+<div class="alert-info">
+This is a blue colored box
+</div>
