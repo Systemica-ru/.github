@@ -63,3 +63,10 @@
 Сайт: [www.systemica.ru](https://systemica.ru)
 
 Эл. почта: [info@systemica.ru](mailto:info@systemica.ru)
+
+
+text <mark>Marked text</mark>
+text <span style="background-color: #FFFF00">Marked text</span>
+text <mark style="background-color: lightblue">Marked text</mark>
+text ==highlight==
+text `highlight`
