@@ -118,3 +118,10 @@ This is a blue colored box
 | This | is | a | Green Row |
 
 </div>
+
+
+
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
